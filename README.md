@@ -9,13 +9,11 @@
 :books: Atualmente estou aprendendo um pouco de tudo relacionado ao desenvolvimento.
 
 ## Sobre mim
-Sou Matheus, desenvolvedor fullstack com 2 anos de experiência e uma paixão por tecnologia. Iniciei minha trajetória em 2021, quando percebi o impacto da tecnologia na otimização de processos na empresa em que trabalhava. Desde então, me dediquei ao estudo de programação, passando por um Bootcamp e sendo promovido ao programa Movidos pela Tech, onde fui capacitado para atuar como desenvolvedor, atuei também em um periodo de cerca de 1 e 2 meses como desenvolvedor RPA, por tanto carrego também uma bagagem e conhecimento para poder agregar junto a demandas e projetos que necessitem de automações.
+Sou desenvolvedor fullstack com 2 anos de experiência. Iniciei minha carreira em 2021, ao me interessar pela tecnologia e seu impacto na automação de processos. Após passar por um Bootcamp, fui integrado ao programa Movidos pela Tech, onde fui treinado como desenvolvedor e adquiri experiência com RPA (Automação de Processos).
 
-Tenho experiência com tecnologias como PHP, Python, Java, Springboot, Laravel, Angular, JavaScript, TypeScript, NodeJS e SQL. Ao longo da minha carreira, contribuí para soluções de segurança, automação e otimização de sistemas, sempre com foco em inovação e eficiência.
+Tenho habilidades em PHP, Python, Java, Spring Boot, Laravel, Angular, JavaScript, TypeScript, NodeJS e SQL, e tenho atuado em projetos de segurança, automação e otimização de sistemas.
 
-Estou em constante busca de novos desafios e oportunidades para crescer e agregar valor aos projetos em que me envolvo.
-
-Aqui no Github, você irá encontrar um perfil bem proativo quanto a linguagens e tecnologias, estou reabastecendo meu portifólio, portanto desde já agradeço a compreensão e a oportunidade de visita a minha casa.
+Estou sempre buscando novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores. Meu portfólio está em constante atualização, e agradeço pela visita ao meu GitHub.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/matheusflorencio17/)](https://www.github.com/matheusflorencio17/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusflorenciofeitosa/)](https://www.linkedin.com/in/matheusflorenciofeitosa/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:matheusflorencio78@gmail.com)](mailto:matheusflorencio78@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5511913353526)](https://wa.me/5511913353526)
 
@@ -84,13 +82,11 @@ Aqui no Github, você irá encontrar um perfil bem proativo quanto a linguagens 
 :books: I am currently learning a bit of everything related to development.
 
 ## About Me
-I am Matheus, a fullstack developer with 2 years of experience and a passion for technology. My journey began in 2021, when I realized the impact technology could have on optimizing processes at the company I was working for. Since then, I have dedicated myself to learning programming, completing a Bootcamp and being promoted to the "Movidos pela Tech" program, where I was trained to work as a developer. I also worked for about 1 to 2 months as an RPA developer, so I bring knowledge and experience that can contribute to automation demands and projects.
+I'm Matheus, a fullstack developer with 2 years of experience. I started my career in 2021, becoming interested in technology and its impact on process automation. After going through a Bootcamp, I was integrated into the Movidos pela Tech program, where I was trained as a developer and gained experience with RPA (Process Automation).
 
-I have experience with technologies like PHP, Python, Java, Spring Boot, Laravel, Angular, JavaScript, TypeScript, NodeJS, and SQL. Throughout my career, I have contributed to solutions in security, automation, and system optimization, always focusing on innovation and efficiency.
+I have skills in PHP, Python, Java, Spring Boot, Laravel, Angular, JavaScript, TypeScript, NodeJS and SQL, and I have worked on security, automation and system optimization projects.
 
-I am constantly looking for new challenges and opportunities to grow and add value to the projects I am involved in.
-
-Here on GitHub, you will find a proactive profile regarding languages and technologies. I am in the process of updating my portfolio, so I appreciate your understanding and the opportunity to visit my page.
+I am always looking for new challenges to improve my skills and contribute to innovative projects. My portfolio is constantly being updated, and thank you for visiting my GitHub.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/matheusflorencio17/)](https://www.github.com/matheusflorencio17/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusflorenciofeitosa/)](https://www.linkedin.com/in/matheusflorenciofeitosa/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:matheusflorencio78@gmail.com)](mailto:matheusflorencio78@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5511913353526)](https://wa.me/5511913353526)
 
